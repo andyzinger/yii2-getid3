@@ -1,13 +1,13 @@
 {
-    "name": "perminder-klair/yii2-getid3",
+    "name": "andyzinger/yii2-getid3",
     "description": "getID3() Extention for Yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","getid3"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Parminder Klair",
-            "email": "perminder.klair@gmail.com"
+            "name": "Andyzinger",
+            "email": "andyzinger@gmail.com"
         }
     ],
     "require": {
